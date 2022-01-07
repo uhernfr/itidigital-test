@@ -1,0 +1,13 @@
+C:\Users\uhern\source\repos\itidigital-test\itidigital.Services\bin\Debug\netcoreapp3.1\itidigital.Services.exe
+C:\Users\uhern\source\repos\itidigital-test\itidigital.Services\bin\Debug\netcoreapp3.1\itidigital.Services.deps.json
+C:\Users\uhern\source\repos\itidigital-test\itidigital.Services\bin\Debug\netcoreapp3.1\itidigital.Services.runtimeconfig.json
+C:\Users\uhern\source\repos\itidigital-test\itidigital.Services\bin\Debug\netcoreapp3.1\itidigital.Services.runtimeconfig.dev.json
+C:\Users\uhern\source\repos\itidigital-test\itidigital.Services\bin\Debug\netcoreapp3.1\itidigital.Services.dll
+C:\Users\uhern\source\repos\itidigital-test\itidigital.Services\bin\Debug\netcoreapp3.1\itidigital.Services.pdb
+C:\Users\uhern\source\repos\itidigital-test\itidigital.Services\obj\Debug\netcoreapp3.1\itidigital.Services.AssemblyInfoInputs.cache
+C:\Users\uhern\source\repos\itidigital-test\itidigital.Services\obj\Debug\netcoreapp3.1\itidigital.Services.AssemblyInfo.cs
+C:\Users\uhern\source\repos\itidigital-test\itidigital.Services\obj\Debug\netcoreapp3.1\itidigital.Services.csproj.CoreCompileInputs.cache
+C:\Users\uhern\source\repos\itidigital-test\itidigital.Services\obj\Debug\netcoreapp3.1\itidigital.Services.dll
+C:\Users\uhern\source\repos\itidigital-test\itidigital.Services\obj\Debug\netcoreapp3.1\itidigital.Services.pdb
+C:\Users\uhern\source\repos\itidigital-test\itidigital.Services\obj\Debug\netcoreapp3.1\itidigital.Services.genruntimeconfig.cache
+C:\Users\uhern\source\repos\itidigital-test\itidigital.Services\obj\Debug\netcoreapp3.1\itidigital.Services.csproj.AssemblyReference.cache
