@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\uhern\\source\\repos\\itidigital-test\\itidigital.API\\itidigital.Api.csproj": {}
+    "C:\\github\\itidigital-test\\itidigital.API\\itidigital.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\uhern\\source\\repos\\itidigital-test\\itidigital.API\\itidigital.Api.csproj": {
+    "C:\\github\\itidigital-test\\itidigital.API\\itidigital.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\uhern\\source\\repos\\itidigital-test\\itidigital.API\\itidigital.Api.csproj",
+        "projectUniqueName": "C:\\github\\itidigital-test\\itidigital.API\\itidigital.Api.csproj",
         "projectName": "itidigital.Api",
-        "projectPath": "C:\\Users\\uhern\\source\\repos\\itidigital-test\\itidigital.API\\itidigital.Api.csproj",
+        "projectPath": "C:\\github\\itidigital-test\\itidigital.API\\itidigital.Api.csproj",
         "packagesPath": "C:\\Users\\uhern\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\uhern\\source\\repos\\itidigital-test\\itidigital.API\\obj\\",
+        "outputPath": "C:\\github\\itidigital-test\\itidigital.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\uhern\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\uhern\\source\\repos\\itidigital-test\\itidigital.Services\\itidigital.Services.csproj": {
-                "projectPath": "C:\\Users\\uhern\\source\\repos\\itidigital-test\\itidigital.Services\\itidigital.Services.csproj"
+              "C:\\github\\itidigital-test\\itidigital.Services\\itidigital.Services.csproj": {
+                "projectPath": "C:\\github\\itidigital-test\\itidigital.Services\\itidigital.Services.csproj"
               }
             }
           }
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\Users\\uhern\\source\\repos\\itidigital-test\\itidigital.Services\\itidigital.Services.csproj": {
+    "C:\\github\\itidigital-test\\itidigital.Services\\itidigital.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\uhern\\source\\repos\\itidigital-test\\itidigital.Services\\itidigital.Services.csproj",
+        "projectUniqueName": "C:\\github\\itidigital-test\\itidigital.Services\\itidigital.Services.csproj",
         "projectName": "itidigital.Services",
-        "projectPath": "C:\\Users\\uhern\\source\\repos\\itidigital-test\\itidigital.Services\\itidigital.Services.csproj",
+        "projectPath": "C:\\github\\itidigital-test\\itidigital.Services\\itidigital.Services.csproj",
         "packagesPath": "C:\\Users\\uhern\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\uhern\\source\\repos\\itidigital-test\\itidigital.Services\\obj\\",
+        "outputPath": "C:\\github\\itidigital-test\\itidigital.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\uhern\\AppData\\Roaming\\NuGet\\NuGet.Config",
